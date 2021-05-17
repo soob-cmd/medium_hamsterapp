@@ -1,0 +1,50 @@
+{
+    "packageDirectories": [
+        {
+            "path": "hamster-app-core",
+            "package": "HamsterApp",
+            "versionName": "V 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "hamster-app-autopic",
+            "package": "HamsterApp-Autopic",
+            "versionName": "V 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "dependencies": [
+                {
+                    "package": "HamsterApp",
+                    "versionNumber": "0.1.0.LATEST"
+                }
+            ]
+        },
+        {
+            "path": "hamster-app-topper",
+            "package": "HamsterApp-Topper",
+            "default": true,
+            "versionName": "V 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "dependencies": [
+                {
+                    "package": "HamsterApp",
+                    "versionNumber": "0.1.0.LATEST"
+                },
+                {
+                    "package": "HamsterApp-Autopic",
+                    "versionNumber": "0.1.0.LATEST"
+                }
+            ]
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "51.0",
+    "packageAliases": {
+        "HamsterApp": "0Ho5e00000000HpCAI",
+        "HamsterApp@0.1.0-1": "04t5e000000YjW6AAK",
+        "HamsterApp-Autopic": "0Ho5e00000000HuCAI",
+        "HamsterApp-Autopic@0.1.0-1": "04t5e000000YjaJAAS",
+        "HamsterApp-Topper": "0Ho5e00000000HzCAI",
+        "HamsterApp-Topper@0.1.0-1": "04t5e000000YjaOAAS"
+    }
+}

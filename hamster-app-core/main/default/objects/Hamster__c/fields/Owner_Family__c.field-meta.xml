@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Owner_Family__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Owner Family that the hamster belongs to.</description>
+    <externalId>false</externalId>
+    <label>Owner Family</label>
+    <referenceTo>Account</referenceTo>
+    <relationshipLabel>Hamsters</relationshipLabel>
+    <relationshipName>Hamsters</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>

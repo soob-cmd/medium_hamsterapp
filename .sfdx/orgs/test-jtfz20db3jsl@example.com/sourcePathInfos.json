@@ -1,0 +1,591 @@
+{
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core",
+    "isDirectory": true,
+    "modifiedTime": 1621212023574,
+    "changeTime": 1621214003358,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main",
+    "isDirectory": true,
+    "modifiedTime": 1621212023574,
+    "changeTime": 1621212023574,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1621223051245,
+    "changeTime": 1621223051245,
+    "contentHash": "d53fed9767172bc91019cca90ec0bad70e02efef",
+    "state": "u",
+    "package": "hamster-app-core",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder",
+    "isDirectory": true,
+    "modifiedTime": 1621217758724,
+    "changeTime": 1621217758724,
+    "contentHash": "be7fa36c35b26690762899bfe4062d5d968be2d8",
+    "state": "u",
+    "isWorkspace": true,
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c",
+    "isDirectory": true,
+    "modifiedTime": 1621215413920,
+    "changeTime": 1621215413920,
+    "contentHash": "5b72ebed9db26d33e856a1f7320fb5ac5adcd750",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects",
+    "isDirectory": true,
+    "modifiedTime": 1621219413769,
+    "changeTime": 1621219413769,
+    "contentHash": "f94772772680472362d286821eb682dce378a175",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\compactLayouts": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\compactLayouts",
+    "isDirectory": true,
+    "modifiedTime": 1621215413915,
+    "changeTime": 1621215413915,
+    "contentHash": "b60c0b3ea002cfb8bc2dbd42a5d34ac905dfb357",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields",
+    "isDirectory": true,
+    "modifiedTime": 1621219413848,
+    "changeTime": 1621219413848,
+    "contentHash": "d59a26dafdc5ff8bba977f92b798856d46e7808c",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\listViews": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\listViews",
+    "isDirectory": true,
+    "modifiedTime": 1621215413920,
+    "changeTime": 1621215413920,
+    "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\layouts": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\layouts",
+    "isDirectory": true,
+    "modifiedTime": 1621219413857,
+    "changeTime": 1621219413857,
+    "contentHash": "20e38dd1c7bce211a2c101fa71dd0254720d9f86",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\tabs": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\tabs",
+    "isDirectory": true,
+    "modifiedTime": 1621215413938,
+    "changeTime": 1621215413938,
+    "contentHash": "4b1ad2edaaea53adf9f4fc99453d96cbf64dbe65",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\Hamster__c.object-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\Hamster__c.object-meta.xml",
+    "size": 5397,
+    "modifiedTime": 1621215413914,
+    "changeTime": 1621215413914,
+    "contentHash": "7bdce6d764b32b95377f88959eddba4b0d86bf1a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CustomObject"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields\\Birthday__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields\\Birthday__c.field-meta.xml",
+    "size": 310,
+    "modifiedTime": 1621215413917,
+    "changeTime": 1621215413917,
+    "contentHash": "06a05cd1d034a5a0983b0c069ee579f6a49bf52c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\compactLayouts\\HamsterCompactLayout.compactLayout-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\compactLayouts\\HamsterCompactLayout.compactLayout-meta.xml",
+    "size": 295,
+    "modifiedTime": 1621215413915,
+    "changeTime": 1621215413915,
+    "contentHash": "a4bbbad8341239a359599d36e77183988444a722",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CompactLayout"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\layouts\\Hamster__c-Hamster Layout.layout-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\layouts\\Hamster__c-Hamster Layout.layout-meta.xml",
+    "size": 4026,
+    "modifiedTime": 1621219413854,
+    "changeTime": 1621219413854,
+    "contentHash": "76ffc1f07c0b90c1acca3ed8e260444fa7596d5d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "Layout"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\listViews\\All.listView-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\listViews\\All.listView-meta.xml",
+    "size": 299,
+    "modifiedTime": 1621217090195,
+    "changeTime": 1621217090195,
+    "contentHash": "5c2e1b9853abee84865cf2e4658b649e949e0ef7",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "ListView"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields\\Breed__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields\\Breed__c.field-meta.xml",
+    "size": 1361,
+    "modifiedTime": 1621215413918,
+    "changeTime": 1621215413918,
+    "contentHash": "0e2d49704c129b8e1874981f7cb31c655a0f8c04",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\profiles\\Admin.profile-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\profiles\\Admin.profile-meta.xml",
+    "size": 19680,
+    "modifiedTime": 1621215413970,
+    "changeTime": 1621215413970,
+    "contentHash": "7e1332fe0b59c429455044ad9e61568f22dc203a",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "Profile"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\tabs\\Hamster__c.tab-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\tabs\\Hamster__c.tab-meta.xml",
+    "size": 238,
+    "modifiedTime": 1621215413938,
+    "changeTime": 1621215413938,
+    "contentHash": "e704fb01ac673704e3b1adcdfb2efe002317ebef",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CustomTab"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1465861497156.profileSessionSetting-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\profileSessionSettings\\PT1_profileSessionSetting1465861497156.profileSessionSetting-meta.xml",
+    "size": 432,
+    "modifiedTime": 1621217090204,
+    "changeTime": 1621217090204,
+    "contentHash": "3670b3d6c364eec73b32a32e1bf3dc2fff41cb4c",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "ProfileSessionSetting"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1465846447840.profilePasswordPolicy-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\profilePasswordPolicies\\PT1_profilePasswordPolicy1465846447840.profilePasswordPolicy-meta.xml",
+    "size": 631,
+    "modifiedTime": 1621217090200,
+    "changeTime": 1621217090200,
+    "contentHash": "50e97fcbfaa07fbef84a63c459200c98f0f6de0b",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "ProfilePasswordPolicy"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\",
+    "isDirectory": true,
+    "modifiedTime": 1621217758724,
+    "changeTime": 1621217758724,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "u",
+    "isArtifactRoot": true,
+    "package": "hamster-app-autopic"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main",
+    "isDirectory": true,
+    "modifiedTime": 1621217758725,
+    "changeTime": 1621217758725,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "u",
+    "package": "hamster-app-autopic"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1621221803637,
+    "changeTime": 1621221803637,
+    "contentHash": "729eedc822ca6f9d4360f3f5ddddda5cea68b154",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc",
+    "isDirectory": true,
+    "modifiedTime": 1621218298446,
+    "changeTime": 1621218298446,
+    "contentHash": "1f9d661307c93c896920915de2033036ac368838",
+    "state": "u",
+    "package": "hamster-app-autopic"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic",
+    "isDirectory": true,
+    "modifiedTime": 1621218298449,
+    "changeTime": 1621218298449,
+    "contentHash": "f4b3867de9eb7ed7aab4b17abe8fe9a9a7d8905e",
+    "state": "u",
+    "package": "hamster-app-autopic"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic\\hamsterAutopic.html": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic\\hamsterAutopic.html",
+    "size": 117,
+    "modifiedTime": 1621221723522,
+    "changeTime": 1621221723522,
+    "contentHash": "f6d3b84e853695310b895fb3cf20873b9455953f",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic\\hamsterAutopic.js": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic\\hamsterAutopic.js",
+    "size": 734,
+    "modifiedTime": 1621221748196,
+    "changeTime": 1621221748196,
+    "contentHash": "6412c4b86925eb666fc94683fd63ec003aab4e46",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic\\hamsterAutopic.js-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\lwc\\hamsterAutopic\\hamsterAutopic.js-meta.xml",
+    "size": 492,
+    "modifiedTime": 1621219696117,
+    "changeTime": 1621219696117,
+    "contentHash": "bb8f9cc562b654b3d204838b89e24f3ba82f16fb",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "LightningComponentBundle",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account",
+    "isDirectory": true,
+    "modifiedTime": 1621219568145,
+    "changeTime": 1621219568145,
+    "contentHash": "0752fcff6be33a3e2ec1d414dee89ed0f493493d",
+    "state": "u",
+    "package": "hamster-app-core",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\compactLayouts": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\compactLayouts",
+    "isDirectory": true,
+    "modifiedTime": 1621219549147,
+    "changeTime": 1621219549147,
+    "contentHash": "5e0fa353eda93ede42bc6c1f042b1c206b99a894",
+    "state": "u",
+    "package": "hamster-app-core",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\recordTypes": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\recordTypes",
+    "isDirectory": true,
+    "modifiedTime": 1621219413812,
+    "changeTime": 1621219413812,
+    "contentHash": "40d83e3194c13e9e73c97d7aa7534b83a1687b69",
+    "state": "u",
+    "package": "hamster-app-core"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\Account.object-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\Account.object-meta.xml",
+    "size": 8685,
+    "modifiedTime": 1621223260340,
+    "changeTime": 1621223260340,
+    "contentHash": "61a50765d363e9e5a271804ef6bb0b08d412c653",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CustomObject",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\compactLayouts\\HamsterOwnerCL.compactLayout-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\compactLayouts\\HamsterOwnerCL.compactLayout-meta.xml",
+    "size": 283,
+    "modifiedTime": 1621219413775,
+    "changeTime": 1621219413775,
+    "contentHash": "3d2ecf96e5fbdf3846a325fb09b35ed8f287413d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CompactLayout"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\recordTypes\\Hamster_Owner.recordType-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Account\\recordTypes\\Hamster_Owner.recordType-meta.xml",
+    "size": 282,
+    "modifiedTime": 1621223081316,
+    "changeTime": 1621223081316,
+    "contentHash": "4f7d6a9fb6ce3e39ecc9c149034463309b178994",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "RecordType",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields\\Owner_Family__c.field-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\objects\\Hamster__c\\fields\\Owner_Family__c.field-meta.xml",
+    "size": 583,
+    "modifiedTime": 1621219413848,
+    "changeTime": 1621219413848,
+    "contentHash": "5cb46707fdb7380ddc16fc338ad81f74bf7a2c71",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "CustomField"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\layouts\\Account-Hamster Owner PL.layout-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-core\\main\\default\\layouts\\Account-Hamster Owner PL.layout-meta.xml",
+    "size": 3643,
+    "modifiedTime": 1621224363406,
+    "changeTime": 1621224363406,
+    "contentHash": "5c2dd5614cfb0d1643354561be34c639846f8130",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-core",
+    "metadataType": "Layout"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources",
+    "isDirectory": true,
+    "modifiedTime": 1621222209550,
+    "changeTime": 1621222209550,
+    "contentHash": "d4746733ea1a602cafde00700600eb78fd6620cc",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "deferContentHash": true
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images.resource-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images.resource-meta.xml",
+    "size": 213,
+    "modifiedTime": 1621221924642,
+    "changeTime": 1621221924642,
+    "contentHash": "e4d9e546fa351b99c0881ee19e982603be404675",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "StaticResource"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images",
+    "isDirectory": true,
+    "modifiedTime": 1621221880964,
+    "changeTime": 1621222205895,
+    "contentHash": "b5396eb0135a538cfcede9908de84fca4bcc6e00",
+    "state": "u",
+    "package": "hamster-app-autopic"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\ca.jpg": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\ca.jpg",
+    "size": 25109,
+    "modifiedTime": 1621221423496,
+    "changeTime": 1621222205894,
+    "contentHash": "99fc00151220304804d013a114361b48e40a27c6",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "StaticResource"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\ch.jpg": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\ch.jpg",
+    "size": 17141,
+    "modifiedTime": 1621221423677,
+    "changeTime": 1621222205894,
+    "contentHash": "f92ea3b10c4f46f6195a9ce4efabb1d364bb9433",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "StaticResource"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\ro.jpg": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\ro.jpg",
+    "size": 24633,
+    "modifiedTime": 1621221423755,
+    "changeTime": 1621222205894,
+    "contentHash": "50c28ae6d4b3902f3424d080f195ebd4124a8f82",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "StaticResource"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\sy.jpg": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\sy.jpg",
+    "size": 20568,
+    "modifiedTime": 1621221423852,
+    "changeTime": 1621222205894,
+    "contentHash": "85b87e33ebdc9d50084434431bca32b20117fd3e",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "StaticResource"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\wi.jpg": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-autopic\\main\\default\\staticresources\\hamster_images\\wi.jpg",
+    "size": 24732,
+    "modifiedTime": 1621221423936,
+    "changeTime": 1621222205894,
+    "contentHash": "0377b0be23fa399ca76276b2db1ef334bb36ae4e",
+    "state": "u",
+    "package": "hamster-app-autopic",
+    "metadataType": "StaticResource"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\",
+    "isDirectory": true,
+    "modifiedTime": 1621225530900,
+    "changeTime": 1621225530900,
+    "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+    "state": "n",
+    "isArtifactRoot": true,
+    "package": "hamster-app-topper"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main",
+    "isDirectory": true,
+    "modifiedTime": 1621225530900,
+    "changeTime": 1621225530900,
+    "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+    "state": "n",
+    "package": "hamster-app-topper"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default",
+    "isDirectory": true,
+    "modifiedTime": 1621226154527,
+    "changeTime": 1621226154527,
+    "contentHash": "10557a9d75f6387d1449919434450beb6b62809e",
+    "state": "u",
+    "package": "hamster-app-topper"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages",
+    "isDirectory": true,
+    "modifiedTime": 1621226154517,
+    "changeTime": 1621226154517,
+    "contentHash": "efe988a0714c2499c7da1426007bc8f83d1d00fc",
+    "state": "u",
+    "package": "hamster-app-topper"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\applications": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\applications",
+    "isDirectory": true,
+    "modifiedTime": 1621226154520,
+    "changeTime": 1621226154520,
+    "contentHash": "7e15387c1177e327ad5285e45f6f15ab4fb41bc0",
+    "state": "u",
+    "package": "hamster-app-topper"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\permissionsets": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\permissionsets",
+    "isDirectory": true,
+    "modifiedTime": 1621226154523,
+    "changeTime": 1621226154523,
+    "contentHash": "4c16d10a43ee87702b6967b8709d91fbf6aba266",
+    "state": "u",
+    "package": "hamster-app-topper"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\appMenus": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\appMenus",
+    "isDirectory": true,
+    "modifiedTime": 1621226154527,
+    "changeTime": 1621226154527,
+    "contentHash": "7c65d70563206b380e20367663fe2cc611131a2d",
+    "state": "u",
+    "package": "hamster-app-topper"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages\\HamsterOwner_LRP.flexipage-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages\\HamsterOwner_LRP.flexipage-meta.xml",
+    "size": 2798,
+    "modifiedTime": 1621226154510,
+    "changeTime": 1621226154510,
+    "contentHash": "7bfacdad2e8f9acd4ccf919fff1d4a3ee04b764f",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-topper",
+    "metadataType": "FlexiPage"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages\\Hamster_Grooming_UtilityBar.flexipage-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages\\Hamster_Grooming_UtilityBar.flexipage-meta.xml",
+    "size": 625,
+    "modifiedTime": 1621226154514,
+    "changeTime": 1621226154514,
+    "contentHash": "cbf0a0c7f856b4c5f80cf7142fb44e0f48ae7156",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-topper",
+    "metadataType": "FlexiPage"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\applications\\Hamster_Grooming.app-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\applications\\Hamster_Grooming.app-meta.xml",
+    "size": 2356,
+    "modifiedTime": 1621226154520,
+    "changeTime": 1621226154520,
+    "contentHash": "f5102ee2f907a8a3f7410d7b3e5e47eae14b9941",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-topper",
+    "metadataType": "CustomApplication"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\appMenus\\AppSwitcher.appMenu-meta.xml",
+    "size": 3470,
+    "modifiedTime": 1621226154527,
+    "changeTime": 1621226154527,
+    "contentHash": "e870693ce9a1a9832900e5d8a7c2c039710a7d3d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-topper",
+    "metadataType": "AppMenu"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\permissionsets\\HamsterAppPermission.permissionset-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\permissionsets\\HamsterAppPermission.permissionset-meta.xml",
+    "size": 2078,
+    "modifiedTime": 1621226154523,
+    "changeTime": 1621226154523,
+    "contentHash": "3caa794a6e502207e2ff6c31bcbc21cfccbf97fa",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-topper",
+    "metadataType": "PermissionSet"
+  },
+  "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages\\Hamster_LRP.flexipage-meta.xml": {
+    "sourcePath": "C:\\Users\\Soobtate\\OneDrive\\Documents\\SFDX\\sfdx-multifolder\\sfdx-multifolder\\hamster-app-topper\\main\\default\\flexipages\\Hamster_LRP.flexipage-meta.xml",
+    "size": 2827,
+    "modifiedTime": 1621226154517,
+    "changeTime": 1621226154517,
+    "contentHash": "63414712c925f5fbb86f762642c4ee54bcdf445d",
+    "isMetadataFile": true,
+    "state": "u",
+    "package": "hamster-app-topper",
+    "metadataType": "FlexiPage"
+  }
+}
